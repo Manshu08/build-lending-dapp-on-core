@@ -7,6 +7,7 @@ Following are the pre-requisites tools that you'll need:
 - [Git](https://git-scm.com/)
 
 
+
 ## Configure Git CLI
 - Open your favorite terminal.
 - Run `gh --version` to ensure that you have installed the Git CLI successfully.

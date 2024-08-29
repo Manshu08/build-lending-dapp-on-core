@@ -33,6 +33,7 @@ Following are the pre-requisites tools that you'll need:
 - Run `npx hardhat ignition deploy ./ignition/modules/deploy.js --network core_testnet`to deploy.
 - Copy the addresses of **DAPP, USD and BTC** Contracts from Terminal and paste them in the **.env** file present inside _./interface/.env_
 
+
 ## Frontend Setup
 
 - Navigate to react app by running `cd interface`

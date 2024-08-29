@@ -21,6 +21,8 @@ Following are the pre-requisites tools that you'll need:
 
 
 
+
+
 ## Contract Deployment
 
 - Fork and clone the repo by running `gh repo fork <https://github.com/0xmetaschool/build-lending-dapp-on-core.git> --clone`.

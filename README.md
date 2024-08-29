@@ -17,7 +17,7 @@ Following are the pre-requisites tools that you'll need:
   - Third, you will be able to see some code on your terminal. Copy it.
   - Then, press Enter. It will open a window in your browser.
   - Paste the code you copied and authorize your git. You might need to enter your GitHub password if you have yet to log in.
-- Do not close this terminal!
+
 
 
 ## Contract Deployment
